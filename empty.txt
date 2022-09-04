@@ -1,0 +1,16 @@
+Wamp
+Lamp
+Mamp
+Xampp
+
+X - Any Operating File System
+
+W - Windows
+L - Linux
+M - Mac
+
+A - Apache
+M - MySQL / MariaDB
+P - PHP
+P - Pearl
+

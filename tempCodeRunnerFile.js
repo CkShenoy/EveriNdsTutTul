@@ -1,0 +1,5 @@
+console.log(MobVar, EmailVar, CompanyVar)
+// console.log(AddVar.City)
+// NamFnc()
+// NamVar()
+// CompanyVar()
